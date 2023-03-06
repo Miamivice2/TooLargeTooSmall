@@ -1,0 +1,11 @@
+ public class TooLargeTooSmall{
+ if (30 < 40){
+ return "your input is less than the random number guess again"
+ }
+else if (user input is > the random number){
+your input is greater than the random number guess again
+}
+else if (user input is = to random number){
+your input is is equal to the random number
+}
+ }
